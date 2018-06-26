@@ -1,3 +1,6 @@
+# THIS PROJECT IS DEPRECATED
+hazelcast-discovery-amazon-ecs is no longer maintained, and **this** repository will be removed from GitHub on or after December 26, 2018.
+
 # hazelcast-discovery-amazon-ecs
 
 A [Hazelcast member discovery strategy](http://docs.hazelcast.org/docs/latest/manual/html-single/index.html#discovery-spi)
